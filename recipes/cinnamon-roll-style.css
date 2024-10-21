@@ -1,0 +1,14 @@
+.headers{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+.paragraphs{
+    font-size: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lists{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
